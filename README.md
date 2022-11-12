@@ -1,11 +1,11 @@
-# Hello, my name is Sahana Roy
+# Hi, I'm Sahana! 👋
 ### Dual Degree Masters Student @ IE, Madrid
 
-I'm an experienced Risk Analyst and Consultant with a demonstrated history of working in the Financial Services sector. 
+📈 I'm an experienced Risk Analyst and Consultant with a demonstrated history of working in the Financial Services sector. 
 
-I'm pursuing an MSc. in Big Data and Business Analytics with an emphasis on Business Intelligence, Database Structure, Cloud Computing, Artificial Intelligence, Machine Learning, Python (Pandas, Numpy, Matplotlib, Seaborn, Scipy, Scikit-learn, Tensorflow, Keras, etc.) & SQL.  
+👩‍🎓 I'm pursuing an MSc. in Big Data and Business Analytics with an emphasis on Business Intelligence, Database Structure, Cloud Computing, Artificial Intelligence, Machine Learning, Python (Pandas, Numpy, Matplotlib, Seaborn, Scipy, Scikit-learn, Tensorflow, Keras, etc.) & SQL.  
 
-I work part-time as a Marketing Operations Data Analyst to implement what I learn in my degree!<br>
+👩‍💻 I work part-time as a Marketing Operations Data Analyst to implement what I learn in my degree!<br>
 In this role, I manage strategic support for direct data integration and optimizing marketing leads to the sales funnel<br>
 I also develop ETLs and enhancing marketing dashboards
 
