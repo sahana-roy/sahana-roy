@@ -7,7 +7,7 @@
 
 👩‍💻 I work part-time as a Marketing Operations Data Analyst to implement what I learn in my degree!<br>
 In this role, I manage strategic support for direct data integration and optimizing marketing leads to the sales funnel<br>
-I also develop ETLs and enhancing marketing dashboards
+I also develop ETLs and enhance marketing dashboards
 
 <!--
 https://ileriayo.github.io/markdown-badges/
